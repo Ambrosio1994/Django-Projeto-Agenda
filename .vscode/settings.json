@@ -1,0 +1,30 @@
+{
+    "editor.fontSize": 15,
+    "editor.tabSize": 6,
+    "editor.snippetSuggestions": "top",
+    "window.zoomLevel": 1.5,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "breadcrumbs.enabled": true,
+    "files.autoSave": "afterDelay",
+    "python.languageServer": "Pylance",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "88"
+    ],
+    "python.sortImports.args": [
+        "--profile",
+        "black"
+    ],
+    "python.autoComplete.addBrackets": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "python.testing.pytestEnabled": true,
+    "editor.parameterHints.enabled": true,
+    "editor.fontLigatures": true,
+    "python.analysis.completeFunctionParens": true,
+}
